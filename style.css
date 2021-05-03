@@ -1,0 +1,52 @@
+#change-image {
+  border: 3px soild black;
+  color: white;
+  background-color: black;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 14px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+#change-text {
+  color: white;
+  background-color: black;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 14px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+#hide {
+  color: white;
+  background-color: black;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 14px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+#show {
+  border: 3px soild black;
+  color: white;
+  background-color: black;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 14px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+#bg {
+  border: 3px soild black;
+  color: white;
+  background-color: black;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 14px;
+  margin: 2px;
+  cursor: pointer;
+}
